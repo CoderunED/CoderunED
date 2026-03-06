@@ -81,7 +81,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 **💻 Programming**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" width="48" height="48" alt="PowerShell"/>&nbsp;
+<img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" height="48" alt="PowerShell"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
 
 <br/><br/>
@@ -89,7 +89,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 **☁️ Cloud Platforms**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="48" height="48" alt="Azure"/>
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="Azure"/>
 
 <br/><br/>
 
@@ -97,8 +97,8 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 <img src="https://cdn.simpleicons.org/splunk/FF6B35" width="48" height="48" alt="Splunk"/>&nbsp;
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"/>&nbsp;
-<img src="https://cdn.simpleicons.org/nmap/214478" width="48" height="48" alt="Nmap"/>&nbsp;
-<img src="https://cdn.simpleicons.org/tenable/00C176" width="48" height="48" alt="Nessus"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" height="28" alt="Nmap"/>&nbsp;
+<img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white" height="28" alt="Nessus"/>
 
 <br/>
 
@@ -109,7 +109,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 **📊 SIEM & Detection**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="48" height="48" alt="Azure Sentinel"/>&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="Azure Sentinel"/>&nbsp;
 <img src="https://cdn.simpleicons.org/splunk/FF6B35" width="48" height="48" alt="Splunk SIEM"/>
 
 <br/><br/>
@@ -125,7 +125,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 **🛠️ Dev & Supporting Tools**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub"/>&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
 
