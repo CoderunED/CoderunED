@@ -63,15 +63,11 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 **Programming**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+[![skillicons](https://skillicons.dev/icons?i=python,powershell&theme=dark)](https://skillicons.dev)
 
 **Cloud Platforms**
 
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+[![skillicons](https://skillicons.dev/icons?i=aws,azure&theme=dark)](https://skillicons.dev)
 
 **Security Tools**
 
@@ -83,9 +79,10 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 **SIEM & Detection**
 
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 
 **Identity & Access Management**
 
@@ -103,8 +100,11 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 **Operating Systems**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![skillicons](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
+
+**Dev & Supporting Tools**
+
+[![skillicons](https://skillicons.dev/icons?i=git,github,vscode,docker,bash&theme=dark)](https://skillicons.dev)
 
 ---
 
