@@ -15,6 +15,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervindoouza@gmail.com)
 
 </div>
+
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=420&height=45&lines=%F0%9F%96%A5%EF%B8%8F+%24+whoami" alt="whoami"/>
