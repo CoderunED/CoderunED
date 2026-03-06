@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/CoderunED/CoderunED/main/banner.png" width="100%" alt="banner"/>
 
@@ -18,9 +18,7 @@
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%96%A5%EF%B8%8F%20%24%20whoami&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=350" alt="whoami"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%96%A5%EF%B8%8F%20%24%20whoami&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=350" alt="whoami"/></div>
 
 ```javascript
 const ervin = {
@@ -52,9 +50,7 @@ const ervin = {
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8F%85%20Certifications%20%26%20Learning&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=500" alt="Certifications"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8F%85%20Certifications%20%26%20Learning&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=500" alt="Certifications"/></div>
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -65,9 +61,7 @@ const ervin = {
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8E%AF%20Cloud%20Security%20Focus%20Areas&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=490" alt="Focus Areas"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8E%AF%20Cloud%20Security%20Focus%20Areas&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=490" alt="Focus Areas"/></div>
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
@@ -80,68 +74,63 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=390" alt="Tech Stack"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=390" alt="Tech Stack"/></div>
 
 <div align="center">
 
-**💻 Programming**
+### 💻 Programming
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" width="48" height="48" alt="PowerShell"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" width="55" height="55" alt="PowerShell"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="55" height="55" alt="Bash"/>
 
-<br/>
+### ☁️ Cloud Platforms
 
-**☁️ Cloud Platforms**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="55" height="55" alt="AWS"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="55" height="55" alt="Azure"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="48" height="48" alt="Azure"/>
+### 🔐 Security Tools
 
-<br/>
+<img src="https://cdn.simpleicons.org/splunk/FF6B35" width="55" height="55" alt="Splunk"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="55" height="55" alt="Wireshark"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white" height="40" alt="Nmap"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" height="40" alt="Nessus"/>
+<br/><br/>
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="55" height="55" alt="Metasploit"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="55" height="55" alt="Kali Linux"/>
 
-**🔐 Security Tools**
+### 📊 SIEM & Detection
 
-<img src="https://cdn.simpleicons.org/splunk/FF6B35" width="48" height="48" alt="Splunk"/>&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"/>&nbsp;
-<img src="https://cdn.simpleicons.org/nmap/214478" width="48" height="48" alt="Nmap"/>&nbsp;
-<img src="https://cdn.simpleicons.org/tenable/00C176" width="48" height="48" alt="Nessus"/>
-<br/>
-<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" alt="Metasploit"/>&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="55" height="55" alt="Azure Sentinel"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/splunk/FF6B35" width="55" height="55" alt="Splunk SIEM"/>
 
-<br/>
+### 🔑 Identity & Access Management
 
-**📊 SIEM & Detection**
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55" height="55" alt="AWS IAM"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="48" height="48" alt="Azure Sentinel"/>&nbsp;
-<img src="https://cdn.simpleicons.org/splunk/FF6B35" width="48" height="48" alt="Splunk SIEM"/>
+### 🌐 Networking & VPN
 
-<br/>
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="55" height="55" alt="Cisco"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openvpn/EA7E20" width="55" height="55" alt="OpenVPN"/>
 
-**🖥️ Operating Systems**
+### 🖥️ Operating Systems
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/268BEE" width="48" height="48" alt="Kali"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="55" height="55" alt="Windows"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" height="55" alt="Linux"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kalilinux/268BEE" width="55" height="55" alt="Kali"/>
 
-<br/>
+### 🛠️ Dev & Supporting Tools
 
-**🛠️ Dev & Supporting Tools**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="55" height="55" alt="GitHub"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/>
 
 </div>
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%9A%80%20Featured%20Projects&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=360" alt="Projects"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%9A%80%20Featured%20Projects&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=360" alt="Projects"/></div>
 
 ### 📡 Network Attack Simulation & Defense
 > Hands-on lab covering ARP poisoning, DNS spoofing, DoS/DDoS attack patterns, and sniffing techniques — with documented defenses for each.
@@ -164,9 +153,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%93%8A%20GitHub%20Stats&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=290" alt="GitHub Stats"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%93%8A%20GitHub%20Stats&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=290" alt="GitHub Stats"/></div>
 
 <div align="center">
 
@@ -178,9 +165,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%E2%9C%8D%EF%B8%8F%20Latest%20Writing%20on%20HackTrace&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=510" alt="HackTrace"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%E2%9C%8D%EF%B8%8F%20Latest%20Writing%20on%20HackTrace&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=510" alt="HackTrace"/></div>
 
 > Cloud security, broken down simply. No fluff.
 
@@ -196,9 +181,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%93%A1%20Currently&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=240" alt="Currently"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%93%A1%20Currently&fontColor=00C8FF&fontSize=22&fontAlignY=65&animation=twinkling&fontAlign=4&width=240" alt="Currently"/></div>
 
 - ☁️ Deep-diving into **AWS Cloud Security** — IAM, GuardDuty, Security Hub, CloudTrail
 - 🔭 Building cloud security projects to showcase real-world skills
@@ -215,4 +198,3 @@ Security Architecture         ███████░░░░░  Zero Trust p
 ![Visitor Count](https://komarev.com/ghpvc/?username=CoderunED&color=00c8ff&style=flat-square)
 
 </div>
-](https://github.com/CoderunED/CoderunED/blob/main/README.md)
