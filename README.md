@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+About+Me" alt="About Me" />
 
 **Most cloud breaches don't start with a sophisticated attack — they start with a misconfiguration nobody noticed.** That's the problem I'm obsessed with solving.
 
@@ -35,7 +35,7 @@ By day I'm diving deep into AWS security services, working hands-on with cloud-n
 
 ---
 
-## 🛡️ Certifications & Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+Certifications+%26+Learning" alt="Certifications" />
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -46,7 +46,7 @@ By day I'm diving deep into AWS security services, working hands-on with cloud-n
 
 ---
 
-## ☁️ Cloud Security Focus Areas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+Cloud+Security+Focus+Areas" alt="Cloud Security Focus Areas" />
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
@@ -59,7 +59,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 🧰 Tech Stack & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+Tech+Stack+%26+Tools" alt="Tech Stack" />
 
 **Programming**
 
@@ -108,7 +108,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+Featured+Projects" alt="Featured Projects" />
 
 ### 📡 Network Attack Simulation & Defense
 > Hands-on lab covering ARP poisoning, DNS spoofing, DoS/DDoS attack patterns, and sniffing techniques — with documented defenses for each.  
@@ -130,7 +130,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+GitHub+Stats" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -142,7 +142,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 📝 Latest Writing on HackTrace
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+Latest+Writing+on+HackTrace" alt="Latest Writing" />
 
 > Cloud security, broken down simply. No fluff.
 
@@ -158,7 +158,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 🌱 Currently
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&width=435&lines=▍+Currently" alt="Currently" />
 
 - ☁️ Deep-diving into **AWS Cloud Security** — IAM, GuardDuty, Security Hub, CloudTrail
 - 🔭 Building cloud security projects to showcase real-world skills
