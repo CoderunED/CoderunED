@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ervindsouzaa)
 [![Medium](https://img.shields.io/badge/HackTrace-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ervindsouza08)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ervindsouza11)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervindoouza@gmail.com)
 
 </div>
@@ -43,7 +44,7 @@ const ervin = {
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=380&lines=%E2%96%8D+Certifications+%26+Learning" alt="Certifications"/></h2>
+## 🏅 Certifications & Learning
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -54,7 +55,7 @@ const ervin = {
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=390&lines=%E2%96%8D+Cloud+Security+Focus+Areas" alt="Cloud Security Focus Areas"/></h2>
+## 🎯 Cloud Security Focus Areas
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
@@ -67,7 +68,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=310&lines=%E2%96%8D+Tech+Stack+%26+Tools" alt="Tech Stack"/></h2>
+## 🛠️ Tech Stack & Tools
 
 **Programming**
 
@@ -116,7 +117,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=300&lines=%E2%96%8D+Featured+Projects" alt="Featured Projects"/></h2>
+## 🚀 Featured Projects
 
 ### 📡 Network Attack Simulation & Defense
 > Hands-on lab covering ARP poisoning, DNS spoofing, DoS/DDoS attack patterns, and sniffing techniques — with documented defenses for each.  
@@ -138,7 +139,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=250&lines=%E2%96%8D+GitHub+Stats" alt="GitHub Stats"/></h2>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -150,7 +151,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=410&lines=%E2%96%8D+Latest+Writing+on+HackTrace" alt="Latest Writing"/></h2>
+## ✍️ Latest Writing on HackTrace
 
 > Cloud security, broken down simply. No fluff.
 
@@ -166,7 +167,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=220&lines=%E2%96%8D+Currently" alt="Currently"/></h2>
+## 📡 Currently
 
 - ☁️ Deep-diving into **AWS Cloud Security** — IAM, GuardDuty, Security Hub, CloudTrail
 - 🔭 Building cloud security projects to showcase real-world skills
