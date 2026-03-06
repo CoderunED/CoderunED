@@ -80,54 +80,43 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 **💻 Programming**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>&nbsp;
-<img src="https://cdn.simpleicons.org/powershell/5391FE" width="48" height="48" alt="PowerShell"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
-
-<br/><br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **☁️ Cloud Platforms**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS"/>&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="Azure"/>
-
-<br/><br/>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **🔐 Security Tools**
 
-<img src="https://cdn.simpleicons.org/splunk/FF6B35" width="48" height="48" alt="Splunk"/>&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"/>&nbsp;
-<img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" height="28" alt="Nmap"/>&nbsp;
-<img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white" height="28" alt="Nessus"/>
-
-<br/>
-
-<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="48" height="48" alt="Metasploit"/>&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" height="48" alt="Kali Linux"/>
-
-<br/><br/>
+![Splunk](https://img.shields.io/badge/Splunk-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **📊 SIEM & Detection**
 
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="48" height="48" alt="Azure Sentinel"/>&nbsp;
-<img src="https://cdn.simpleicons.org/splunk/FF6B35" width="48" height="48" alt="Splunk SIEM"/>
-
-<br/><br/>
+![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Splunk SIEM](https://img.shields.io/badge/Splunk_SIEM-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **🖥️ Operating Systems**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48" height="48" alt="Windows"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>&nbsp;
-<img src="https://cdn.simpleicons.org/kalilinux/268BEE" width="48" height="48" alt="Kali"/>
-
-<br/><br/>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 **🛠️ Dev & Supporting Tools**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/>&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="48" height="48" alt="GitHub"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
