@@ -11,10 +11,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ervindsouzaa)
-[![Medium](https://img.shields.io/badge/Medium-HackTrace-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ervindsouza08)
-[![YouTube](https://img.shields.io/badge/YouTube-ErvinDSouza-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ervindsouza11)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervindoouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ervindsouzaa)
+[![Medium](https://img.shields.io/badge/HackTrace-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ervindsouza08)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ervindsouza11)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervindoouza@gmail.com)
 
 </div>
 
