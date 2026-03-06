@@ -20,7 +20,7 @@
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=300&lines=%E2%96%8D+About+Me" alt="About Me"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=300&lines=%E2%96%8D+About+Me" alt="About Me"/></h2>
 
 **Most cloud breaches don't start with a sophisticated attack — they start with a misconfiguration nobody noticed.** That's the problem I'm obsessed with solving.
 
@@ -35,7 +35,7 @@ By day I'm diving deep into AWS security services, working hands-on with cloud-n
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=380&lines=%E2%96%8D+Certifications+%26+Learning" alt="Certifications"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=380&lines=%E2%96%8D+Certifications+%26+Learning" alt="Certifications"/></h2>
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -46,7 +46,7 @@ By day I'm diving deep into AWS security services, working hands-on with cloud-n
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=390&lines=%E2%96%8D+Cloud+Security+Focus+Areas" alt="Cloud Security Focus Areas"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=390&lines=%E2%96%8D+Cloud+Security+Focus+Areas" alt="Cloud Security Focus Areas"/></h2>
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
@@ -59,7 +59,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=310&lines=%E2%96%8D+Tech+Stack+%26+Tools" alt="Tech Stack"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=310&lines=%E2%96%8D+Tech+Stack+%26+Tools" alt="Tech Stack"/></h2>
 
 **Programming**
 
@@ -108,7 +108,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=300&lines=%E2%96%8D+Featured+Projects" alt="Featured Projects"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=300&lines=%E2%96%8D+Featured+Projects" alt="Featured Projects"/></h2>
 
 ### 📡 Network Attack Simulation & Defense
 > Hands-on lab covering ARP poisoning, DNS spoofing, DoS/DDoS attack patterns, and sniffing techniques — with documented defenses for each.  
@@ -130,19 +130,19 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=250&lines=%E2%96%8D+GitHub+Stats" alt="GitHub Stats"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=250&lines=%E2%96%8D+GitHub+Stats" alt="GitHub Stats"/></h2>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderunED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/CoderunED)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CoderunED&theme=tokyonight&hide_border=true&fire=00C8FF&ring=00C8FF&currStreakLabel=00C8FF)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CoderunED&theme=tokyonight&hide_border=true)](https://github.com/CoderunED)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=CoderunED&theme=tokyo-night&hide_border=true&area=true&color=00C8FF&line=00C8FF&point=ffffff)](https://github.com/CoderunED)
 
 </div>
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=410&lines=%E2%96%8D+Latest+Writing+on+HackTrace" alt="Latest Writing"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=410&lines=%E2%96%8D+Latest+Writing+on+HackTrace" alt="Latest Writing"/></h2>
 
 > Cloud security, broken down simply. No fluff.
 
@@ -158,7 +158,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=999999&color=00C8FF&width=220&lines=%E2%96%8D+Currently" alt="Currently"/></h2>
+<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=220&lines=%E2%96%8D+Currently" alt="Currently"/></h2>
 
 - ☁️ Deep-diving into **AWS Cloud Security** — IAM, GuardDuty, Security Hub, CloudTrail
 - 🔭 Building cloud security projects to showcase real-world skills
