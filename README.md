@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="banner.png" alt="Ervin D'Souza — Cloud Security | Security Engineer | Network Security" width="100%"/>
+<img src="https://raw.githubusercontent.com/CoderunED/CoderunED/main/banner.png" width="100%" alt="banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=1&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Ervin+D%27Souza" alt="Ervin D'Souza"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=700&height=40&lines=Cloud+Security+%7C+Security+Engineer+%7C+Network+Security;Aspiring+Cloud+Security+Engineer+%40+CCNY;Building+%40+HackTrace+on+Medium+%26+YouTube" alt="Roles"/>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ervindsouzaa)
 [![Medium](https://img.shields.io/badge/HackTrace-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ervindsouza08)
