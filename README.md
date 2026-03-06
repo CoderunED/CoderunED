@@ -18,7 +18,7 @@
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%96%A5%EF%B8%8F%20%24%20whoami&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=320" alt="whoami"/></div>
+## 🖥️ `$ whoami`
 
 ```javascript
 const ervin = {
@@ -50,7 +50,7 @@ const ervin = {
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8F%85%20Certifications%20%26%20Learning&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=460" alt="Certifications"/></div>
+## 🏅 Certifications & Learning
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -61,7 +61,7 @@ const ervin = {
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8E%AF%20Cloud%20Security%20Focus%20Areas&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=450" alt="Focus Areas"/></div>
+## 🎯 Cloud Security Focus Areas
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
@@ -74,7 +74,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack%20%26%20Tools&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=360" alt="Tech Stack"/></div>
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%9A%80%20Featured%20Projects&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=330" alt="Projects"/></div>
+## 🚀 Featured Projects
 
 ### 📡 Network Attack Simulation & Defense
 > Hands-on lab covering ARP poisoning, DNS spoofing, DoS/DDoS attack patterns, and sniffing techniques — with documented defenses for each.
@@ -156,7 +156,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%93%8A%20GitHub%20Stats&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=260" alt="GitHub Stats"/></div>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%E2%9C%8D%EF%B8%8F%20Latest%20Writing%20on%20HackTrace&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=480" alt="HackTrace"/></div>
+## ✍️ Latest Writing on HackTrace
 
 > Cloud security, broken down simply. No fluff.
 
@@ -184,7 +184,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%93%A1%20Currently&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=210" alt="Currently"/></div>
+## 📡 Currently
 
 - ☁️ Deep-diving into **AWS Cloud Security** — IAM, GuardDuty, Security Hub, CloudTrail
 - 🔭 Building cloud security projects to showcase real-world skills
