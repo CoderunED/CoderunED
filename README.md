@@ -61,7 +61,7 @@ const ervin = {
 
 ---
 
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8E%AF%20Cloud%20Security%20Focus%20Areas&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=450" alt=" Security Focus Areas"/></div>
+<div align="left"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:003344&height=45&text=%F0%9F%8E%AF%20Cloud%20Security%20Focus%20Areas&fontColor=00C8FF&fontSize=20&fontAlignY=68&animation=twinkling&fontAlign=4&width=450" alt="Focus Areas"/></div>
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
