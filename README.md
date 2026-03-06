@@ -15,10 +15,9 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervindoouza@gmail.com)
 
 </div>
-
 ---
 
-## 🖥️ $ whoami
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=420&height=45&lines=%F0%9F%96%A5%EF%B8%8F+%24+whoami" alt="whoami"/>
 
 ```javascript
 const ervin = {
@@ -50,7 +49,7 @@ const ervin = {
 
 ---
 
-## 🏅 Certifications & Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=520&height=45&lines=%F0%9F%8F%85+Certifications+%26+Learning" alt="Certifications"/>
 
 | Certification | Issuer | Status |
 |---|---|---|
@@ -61,7 +60,7 @@ const ervin = {
 
 ---
 
-## 🎯 Cloud Security Focus Areas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=520&height=45&lines=%F0%9F%8E%AF+Cloud+Security+Focus+Areas" alt="Focus Areas"/>
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
@@ -74,56 +73,65 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=420&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Tools" alt="Tech Stack"/>
 
-**Programming**
+**💻 Programming**
 
-[![skillicons](https://skillicons.dev/icons?i=python,powershell&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Cloud Platforms**
+**☁️ Cloud Platforms**
 
-[![skillicons](https://skillicons.dev/icons?i=aws,azure&theme=dark)](https://skillicons.dev)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**Security Tools**
+**🔐 Security Tools**
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**SIEM & Detection**
+**📊 SIEM & Detection**
 
-![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Splunk SIEM](https://img.shields.io/badge/Splunk_SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-**Identity & Access Management**
+**🔑 Identity & Access Management**
 
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-557C94?style=flat-square&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-CC0000?style=flat-square&logoColor=white)
-![Least Privilege](https://img.shields.io/badge/Least_Privilege-214478?style=flat-square&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-557C94?style=for-the-badge&logo=azureactivedirectory&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-CC0000?style=for-the-badge&logo=zscaler&logoColor=white)
+![Least Privilege](https://img.shields.io/badge/Least_Privilege-214478?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-**Networking**
+**🌐 Networking**
 
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=flat-square&logoColor=white)
-![Firewalls](https://img.shields.io/badge/Firewalls-FF4F00?style=flat-square&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-6DB33F?style=flat-square&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS/IPS-8B0000?style=flat-square&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-FF4F00?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-6DB33F?style=for-the-badge&logo=openvpn&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-8B0000?style=for-the-badge&logo=snort&logoColor=white)
 
-**Operating Systems**
+**🖥️ Operating Systems**
 
-[![skillicons](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Dev & Supporting Tools**
+**🛠️ Dev & Supporting Tools**
 
-[![skillicons](https://skillicons.dev/icons?i=git,github,vscode,docker,bash&theme=dark)](https://skillicons.dev)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=380&height=45&lines=%F0%9F%9A%80+Featured+Projects" alt="Projects"/>
 
 ### 📡 Network Attack Simulation & Defense
 > Hands-on lab covering ARP poisoning, DNS spoofing, DoS/DDoS attack patterns, and sniffing techniques — with documented defenses for each.  
@@ -145,7 +153,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=320&height=45&lines=%F0%9F%93%8A+GitHub+Stats" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -157,7 +165,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## ✍️ Latest Writing on HackTrace
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=520&height=45&lines=%E2%9C%8D%EF%B8%8F+Latest+Writing+on+HackTrace" alt="HackTrace"/>
 
 > Cloud security, broken down simply. No fluff.
 
@@ -173,7 +181,7 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ---
 
-## 📡 Currently
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999&color=00C8FF&vCenter=true&width=280&height=45&lines=%F0%9F%93%A1+Currently" alt="Currently"/>
 
 - ☁️ Deep-diving into **AWS Cloud Security** — IAM, GuardDuty, Security Hub, CloudTrail
 - 🔭 Building cloud security projects to showcase real-world skills
