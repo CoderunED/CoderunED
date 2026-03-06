@@ -1,37 +1,46 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Ervin+%F0%9F%91%8B;Cybersecurity+MS+Student+%40+CCNY;Aspiring+Cloud+Security+Engineer+%E2%98%81%EF%B8%8F%F0%9F%94%92;Content+Creator+%40+HackTrace+%F0%9F%8E%AC%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
-
-<br/>
-
-🎓 **MS Cybersecurity @ City College of New York**  
-☁️ Focused on **Cloud Security · Security Engineering · Vulnerability Management**  
-🌍 Based in **New York City**  
-💼 Actively seeking **Cloud Security & Security Engineer roles**
-
-<br/>
+<img src="banner.png" alt="Ervin D'Souza — Cloud Security | Security Engineer | Network Security" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ervindsouzaa)
 [![Medium](https://img.shields.io/badge/HackTrace-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ervindsouza08)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ervindsouza11)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ervindoouza@gmail.com)
 
 </div>
 
 ---
 
-<h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C8FF&width=300&lines=%E2%96%8D+About+Me" alt="About Me"/></h2>
+## 🖥️ $ whoami
 
-**Most cloud breaches don't start with a sophisticated attack — they start with a misconfiguration nobody noticed.** That's the problem I'm obsessed with solving.
+```javascript
+const ervin = {
+  location:      "📍 New York City, NY",
+  education:     "🎓 M.S. Cybersecurity @ City College of New York",
+  focus:         "☁️ Cloud Security | Security Engineering | Network Security",
+  roles: [
+    "🔐 Aspiring Cloud Security Engineer",
+    "✍️  Content Creator @ HackTrace (Medium)",
+    "🎬 Cybersecurity Educator on YouTube"
+  ],
+  certifications: ["Google Cybersecurity", "Qualys VM Foundation", "TryHackMe Pre-Security"],
+  nextTarget:    "🎯 AWS Certified Security – Specialty",
+  expertise: {
+    cloud:       ["AWS IAM", "AWS EC2", "Azure Sentinel", "Log Analytics"],
+    security:    ["Splunk", "Wireshark", "Nmap", "Nessus", "Metasploit"],
+    siem:        ["Azure Sentinel", "KQL", "Log Analytics", "Splunk"],
+    networking:  ["TCP/IP", "Firewalls", "VPN", "IDS/IPS", "Zero Trust"],
+    iam:         ["AWS IAM", "RBAC", "Least Privilege", "Zero Trust"]
+  },
+  currentFocus:  "Building cloud-native security projects & writing HackTrace series",
+  openTo:        "Cloud Security Engineer | Security Engineer | Cloud Security Analyst",
+  funFact:       "I break cloud misconfigs before attackers do 🔍☁️",
+  motto:         "Secure by design. Resilient by default. 🛡️"
+};
+```
 
-I'm Ervin — a **Cloud Security enthusiast**, **MS Cybersecurity student at CCNY**, and a **content creator** who breaks down complex security concepts so anyone can understand them. I believe that the best defense starts with education, and I'm on a mission to make cloud security less intimidating — one article, one video at a time.
-
-📝 On **[HackTrace (Medium)](https://medium.com/@ervindsouza08)**, I write a running series on real-world cloud security — from IAM misconfigurations to incident response. No fluff, just practical breakdowns.  
-🎬 On **[YouTube](https://www.youtube.com/@ervindsouza11)**, I'm building a space where security concepts meet visual storytelling.
-
-By day I'm diving deep into AWS security services, working hands-on with cloud-native threat detection, and building real-world security projects. By night I'm turning those learnings into content that sticks.
-
-> *"Secure by design. Resilient by default."*
+> *"Most breaches don't start with a sophisticated attack — they start with a misconfiguration nobody noticed."*
 
 ---
 
