@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/ervindsouzaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@ervindsouza08"><img src="https://img.shields.io/badge/HackTrace-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>&nbsp;
 <a href="https://www.youtube.com/@ervindsouza11"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
-<a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>&nbsp;
 <a href="mailto:ervindoouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
