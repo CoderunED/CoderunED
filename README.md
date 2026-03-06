@@ -61,26 +61,50 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 ## 🧰 Tech Stack & Tools
 
-**Security Tools**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square&logo=snort&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
-
-**Cloud Security (AWS)**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS GuardDuty](https://img.shields.io/badge/GuardDuty-FF4F00?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CloudTrail](https://img.shields.io/badge/CloudTrail-527FFF?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Security Hub](https://img.shields.io/badge/Security_Hub-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-**Languages & Dev**
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Cloud Platforms**
+
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Security Tools**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
+
+**SIEM & Detection**
+
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**Identity & Access Management**
+
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-557C94?style=flat-square&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-CC0000?style=flat-square&logoColor=white)
+![Least Privilege](https://img.shields.io/badge/Least_Privilege-214478?style=flat-square&logoColor=white)
+
+**Networking**
+
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=flat-square&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-FF4F00?style=flat-square&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-6DB33F?style=flat-square&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS/IPS-8B0000?style=flat-square&logoColor=white)
+
+**Operating Systems**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -110,11 +134,9 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 <div align="center">
 
-![Ervin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderunED&show_icons=true&theme=tokyonight&hide_border=true)
+![Ervin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderunED&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderunED&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CoderunED&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoderunED&theme=tokyonight&hide_border=true)
 
 </div>
 
