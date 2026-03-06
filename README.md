@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://raw.githubusercontent.com/CoderunED/CoderunED/main/banner.png" width="100%" alt="banner"/>
 
@@ -215,3 +215,4 @@ Security Architecture         ███████░░░░░  Zero Trust p
 ![Visitor Count](https://komarev.com/ghpvc/?username=CoderunED&color=00c8ff&style=flat-square)
 
 </div>
+](https://github.com/CoderunED/CoderunED/blob/main/README.md)
