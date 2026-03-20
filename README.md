@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=46&duration=1&pause=99999999&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Ervin+Dsouza" alt="Ervin Dsouza"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=700&height=40&lines=Cloud+Security+%7C+Security+Engineer+%7C+Network+Security;Aspiring+Cloud+Security+Engineer+%40+CCNY;Building+%40+HackTrace+on+Medium+%26+YouTube" alt="Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2500&pause=800&color=00C8FF&center=true&vCenter=true&width=700&height=40&lines=Cloud+Security+%7C+Security+Engineer+%7C+DevSecOps;Aspiring+Cloud+Security+Engineer+%40+CCNY;Building+%40+HackTrace+on+Medium+%26+YouTube" alt="Roles"/>
 
 <br/>
 
@@ -23,9 +23,10 @@
 const ervin = {
   location:      "📍 New York City, NY",
   education:     "🎓 M.S. Cybersecurity @ City College of New York",
-  focus:         "☁️ Cloud Security | Security Engineering | Network Security",
+  focus:         "☁️ Cloud Security | Security Engineering | DevSecOps",
   roles: [
     "🔐 Aspiring Cloud Security Engineer",
+    "🔒 DevSecOps & CI/CD Security",
     "✍️  Content Creator @ HackTrace (Medium)",
     "🎬 Cybersecurity Educator on YouTube"
   ],
@@ -33,19 +34,22 @@ const ervin = {
   nextTarget:    "🎯 AWS Certified Security – Specialty",
   expertise: {
     cloud:       ["AWS IAM", "AWS EC2", "Azure Sentinel", "Log Analytics"],
-    security:    ["Splunk", "Wireshark", "Nmap", "Nessus", "Metasploit"],
-    siem:        ["Azure Sentinel", "KQL", "Log Analytics", "Splunk"],
+    devsecops:   ["GitHub Actions", "CI/CD Security", "SAST", "Secret Scanning", "IaC Security"],
+    security:    ["Splunk", "Wireshark", "Nmap", "Nessus", "Metasploit", "Cowrie"],
+    siem:        ["Azure Sentinel", "Elasticsearch", "Kibana", "KQL", "Log Analytics", "Splunk"],
+    threat_intel:["HASSH Fingerprinting", "Botnet Analysis", "GeoIP Enrichment", "MITRE ATT&CK", "Attack Pattern Detection"],
     networking:  ["TCP/IP", "Firewalls", "VPN", "IDS/IPS", "Zero Trust"],
-    iam:         ["AWS IAM", "RBAC", "Least Privilege", "Zero Trust"]
+    iam:         ["AWS IAM", "RBAC", "Least Privilege", "Zero Trust"],
+    automation:  ["Terraform", "Python", "Bash", "Semgrep", "Checkov"]
   },
-  currentFocus:  "Building cloud-native security projects & writing HackTrace series",
-  openTo:        "Cloud Security Engineer | Security Engineer | Cloud Security Analyst",
+  currentFocus:  "Building cloud security & DevSecOps projects, writing HackTrace series",
+  openTo:        "Cloud Security Engineer | Security Engineer | DevSecOps Engineer | Cloud Security Analyst",
   funFact:       "I break cloud misconfigs before attackers do 🔍☁️",
   motto:         "Secure by design. Resilient by default. 🛡️"
 };
 ```
 
-> *"Most breaches don't start with a sophisticated attack — they start with a misconfiguration nobody noticed."*
+> *"Most breaches don't start with a sophisticated attack — they start with a misconfiguration nobody noticed. Or worse, with a vulnerability that made it to production because your CI/CD had no security gates."*
 
 ---
 
@@ -60,14 +64,17 @@ const ervin = {
 
 ---
 
-## 🎯 Cloud Security Focus Areas
+## 🎯 Cloud Security & DevSecOps Focus Areas
 
 ```
 IAM & Access Control          ██████████░░  Identity policies, roles, least privilege
 Cloud Threat Detection        ████████░░░░  AWS GuardDuty, Security Hub, CloudTrail
 Network Security in Cloud     ████████░░░░  VPC, Security Groups, NACLs, WAF
 Vulnerability Management      █████████░░░  Qualys, CVE analysis, patch prioritization
-Incident Response             ████████░░░░  Log analysis, SIEM (Splunk), containment
+CI/CD Security & DevSecOps    █████████░░░  SAST, secret scanning, IaC, merge gates
+SIEM & Threat Detection       █████████░░░  Elasticsearch, Kibana, Azure Sentinel, attack mapping
+Incident Response             ████████░░░░  Log analysis, SIEM, containment, threat intel
+Threat Intelligence & Hunting █████████░░░  Botnet analysis, HASSH fingerprinting, pattern detection
 Security Architecture         ███████░░░░░  Zero Trust principles, defense-in-depth
 ```
 
@@ -77,18 +84,20 @@ Security Architecture         ███████░░░░░  Zero Trust p
 
 <div align="center">
 
-**💻 Programming**
+**💻 Programming & Scripting**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-**☁️ Cloud Platforms**
+**☁️ Cloud Platforms & IaC**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-**🔐 Security Tools**
+**🔐 Security & Threat Detection Tools**
 
 ![Splunk](https://img.shields.io/badge/Splunk-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -97,10 +106,20 @@ Security Architecture         ███████░░░░░  Zero Trust p
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+**🔍 DevSecOps & Code Scanning**
+
+![Semgrep](https://img.shields.io/badge/Semgrep-DB2D20?style=for-the-badge&logoColor=white)
+![Checkov](https://img.shields.io/badge/Checkov-19B3E1?style=for-the-badge&logoColor=white)
+![Trufflehog](https://img.shields.io/badge/Trufflehog-FF6B6B?style=for-the-badge&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Cowrie](https://img.shields.io/badge/Cowrie-FF6B6B?style=for-the-badge&logoColor=white)
+
 **📊 SIEM & Detection**
 
 ![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Splunk SIEM](https://img.shields.io/badge/Splunk_SIEM-FF6B35?style=for-the-badge&logo=splunk&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -122,6 +141,47 @@ Security Architecture         ███████░░░░░  Zero Trust p
 ---
 
 ## 🚀 Featured Projects
+
+### 🔐 AWS DevSecOps Security Pipeline
+> An AI-powered DevSecOps pipeline that automatically scans code for security vulnerabilities on every GitHub push using GitHub Actions. Catches vulnerabilities before they reach production with SAST scanning (Semgrep), secret scanning (Trufflehog), and infrastructure-as-code vulnerability detection (Checkov) running on every commit. Detects code vulnerabilities (command injection, weak hashing, hardcoded credentials, SQL injection), infrastructure misconfigurations (S3 bucket security, RDS database exposure, overpermissioned security groups), and enforces merge blocking on critical findings with merge gates. Features AI-powered PR comments summarizing findings with remediation guidance.
+
+**Key Achievements:**
+- 7 code vulnerabilities detected across application code
+- 26 infrastructure misconfigurations caught before deployment
+- 586+ Semgrep rules running on every push
+- Full security scan completes in under 60 seconds
+- Terraform-based deployable infrastructure
+
+`GitHub Actions` `Semgrep (SAST)` `Trufflehog` `Checkov` `Python` `Terraform` `AWS` `CI/CD Security` `DevSecOps`
+
+---
+
+### 🍯 HoneyPot Lab — Cloud-Deployed SSH Honeypot with Real-Time Threat Intelligence
+> A production-grade SSH/Telnet honeypot deployed on AWS EC2 (Free Tier) that captures real-world attack traffic from the internet. Uses Cowrie — an industry-standard medium-interaction honeypot — to log every login attempt, command executed, and file downloaded by attackers. Logs are shipped in real-time via Filebeat to Elastic SIEM for enterprise-grade threat detection, and visualized on a live Kibana attack map with GeoIP enrichment showing attacker origins across 9 countries.
+
+**Key Achievements:**
+- 102 total connection attempts captured from 24 unique attacker IPs across 9 countries
+- 26 successful logins analyzed with credential stuffing patterns identified
+- 11 unique botnets fingerprinted using HASSH signature analysis
+- Identified coordinated botnet campaign (4 DigitalOcean IPs sharing SSH-2.0-Go signature)
+- Real-time Kibana attack map with GeoIP enrichment pipeline
+- Automated threat intelligence reporting with MITRE ATT&CK mapping
+- Python-based log analysis for botnet fingerprinting and pattern detection
+- AWS CloudWatch Logs Insights for cloud-native attack query dashboard
+- Live since March 13, 2026 with continuous attack data capture
+
+**Tech Stack:**
+- AWS EC2 (t2.micro, Free Tier) + Security Groups
+- Cowrie v2.9.14 (medium-interaction honeypot)
+- Filebeat 8.17 (log shipping)
+- Elastic Cloud (Elasticsearch + Kibana SIEM)
+- Python 3.11 (custom log analysis & GeoIP lookup)
+- AWS CloudWatch Logs + Logs Insights
+- MaxMind GeoIP (Elastic ingest pipeline)
+
+`AWS EC2` `Cowrie` `Elasticsearch` `Kibana` `Filebeat` `Python` `Threat Intelligence` `SIEM` `GeoIP` `CloudWatch` `Security Research` `Attack Analysis`
+
+---
 
 ### 📡 Network Attack Simulation & Defense
 > Hands-on lab covering ARP poisoning, DNS spoofing, DoS/DDoS attack patterns, and sniffing techniques — with documented defenses for each.
@@ -175,10 +235,11 @@ Security Architecture         ███████░░░░░  Zero Trust p
 ## 📡 Currently
 
 - ☁️ Deep-diving into **AWS Cloud Security** — IAM, GuardDuty, Security Hub, CloudTrail
-- 🔭 Building cloud security projects to showcase real-world skills
+- 🔒 Building **DevSecOps automation** — CI/CD security gates, SAST/DAST integration, IaC scanning
+- 🔭 Building cloud security & DevSecOps projects to showcase real-world enterprise-grade skills
 - 📝 Writing the **HackTrace** 10-part Cloud Security series on Medium
 - 🎬 Building **cybersecurity content** on YouTube — making security visual & accessible
-- 💬 Open to **Cloud Security Engineer**, **Security Engineer**, and **Cloud Security Analyst** roles
+- 💬 Open to **Cloud Security Engineer**, **Security Engineer**, **DevSecOps Engineer**, and **Cloud Security Analyst** roles
 
 ---
 
