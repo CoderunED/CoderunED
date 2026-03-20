@@ -143,43 +143,16 @@ Security Architecture         ███████░░░░░  Zero Trust p
 ## 🚀 Featured Projects
 
 ### 🔐 AWS DevSecOps Security Pipeline
-> An AI-powered DevSecOps pipeline that automatically scans code for security vulnerabilities on every GitHub push using GitHub Actions. Catches vulnerabilities before they reach production with SAST scanning (Semgrep), secret scanning (Trufflehog), and infrastructure-as-code vulnerability detection (Checkov) running on every commit. Detects code vulnerabilities (command injection, weak hashing, hardcoded credentials, SQL injection), infrastructure misconfigurations (S3 bucket security, RDS database exposure, overpermissioned security groups), and enforces merge blocking on critical findings with merge gates. Features AI-powered PR comments summarizing findings with remediation guidance.
+> Engineered an AI-powered CI/CD security pipeline that automatically scans every code push for vulnerabilities before reaching production — **accomplished preventing 33 security issues from deployment** (7 code vulnerabilities + 26 infrastructure misconfigurations) **as measured by detecting them during GitHub Actions workflow** **by implementing Semgrep for SAST scanning, Trufflehog for secret scanning, and Checkov for IaC validation** with merge gates blocking critical findings. Extended pipeline with 586+ active security rules running on every commit, achieving sub-60-second scan completion time with Python automation and Terraform infrastructure-as-code for reproducible security gates across teams.
 
-**Key Achievements:**
-- 7 code vulnerabilities detected across application code
-- 26 infrastructure misconfigurations caught before deployment
-- 586+ Semgrep rules running on every push
-- Full security scan completes in under 60 seconds
-- Terraform-based deployable infrastructure
-
-`GitHub Actions` `Semgrep (SAST)` `Trufflehog` `Checkov` `Python` `Terraform` `AWS` `CI/CD Security` `DevSecOps`
+`GitHub Actions` `Semgrep (SAST)` `Trufflehog` `Checkov` `Python` `Terraform` `AWS` `CI/CD Security` `DevSecOps` `Merge Gates` `Infrastructure Scanning`
 
 ---
 
 ### 🍯 HoneyPot Lab — Cloud-Deployed SSH Honeypot with Real-Time Threat Intelligence
-> A production-grade SSH/Telnet honeypot deployed on AWS EC2 (Free Tier) that captures real-world attack traffic from the internet. Uses Cowrie — an industry-standard medium-interaction honeypot — to log every login attempt, command executed, and file downloaded by attackers. Logs are shipped in real-time via Filebeat to Elastic SIEM for enterprise-grade threat detection, and visualized on a live Kibana attack map with GeoIP enrichment showing attacker origins across 9 countries.
+> Deployed a production-grade SSH/Telnet honeypot on AWS EC2 that captures real-world attacker behavior at scale — **accomplished fingerprinting 11 unique botnets and identifying a coordinated 4-IP campaign** **as measured by analyzing 102 connection attempts from 24 attacker IPs across 9 countries with 26 successful logins** **by ingesting Cowrie honeypot logs through Filebeat into Elasticsearch and correlating HASSH signatures in Kibana threat detection workflows**. Built Python-based threat intelligence pipeline that enriches attacker IPs via MaxMind GeoIP, generates automated MITRE ATT&CK mapped reports, and surfaces botnet patterns through AWS CloudWatch Logs Insights dashboards — shipping real-time alerts to Elastic SIEM for enterprise-grade attack visualization across 9 geographic regions since March 13, 2026.
 
-**Key Achievements:**
-- 102 total connection attempts captured from 24 unique attacker IPs across 9 countries
-- 26 successful logins analyzed with credential stuffing patterns identified
-- 11 unique botnets fingerprinted using HASSH signature analysis
-- Identified coordinated botnet campaign (4 DigitalOcean IPs sharing SSH-2.0-Go signature)
-- Real-time Kibana attack map with GeoIP enrichment pipeline
-- Automated threat intelligence reporting with MITRE ATT&CK mapping
-- Python-based log analysis for botnet fingerprinting and pattern detection
-- AWS CloudWatch Logs Insights for cloud-native attack query dashboard
-- Live since March 13, 2026 with continuous attack data capture
-
-**Tech Stack:**
-- AWS EC2 (t2.micro, Free Tier) + Security Groups
-- Cowrie v2.9.14 (medium-interaction honeypot)
-- Filebeat 8.17 (log shipping)
-- Elastic Cloud (Elasticsearch + Kibana SIEM)
-- Python 3.11 (custom log analysis & GeoIP lookup)
-- AWS CloudWatch Logs + Logs Insights
-- MaxMind GeoIP (Elastic ingest pipeline)
-
-`AWS EC2` `Cowrie` `Elasticsearch` `Kibana` `Filebeat` `Python` `Threat Intelligence` `SIEM` `GeoIP` `CloudWatch` `Security Research` `Attack Analysis`
+`AWS EC2` `Cowrie` `Elasticsearch` `Kibana` `Filebeat` `Python` `Threat Intelligence` `SIEM` `GeoIP Enrichment` `CloudWatch Logs Insights` `HASSH Fingerprinting` `Botnet Analysis` `Attack Pattern Detection` `Security Research`
 
 ---
 
