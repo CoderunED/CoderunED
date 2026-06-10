@@ -29,8 +29,8 @@ const ervin = {
     "✍️  Content Creator @ HackTrace (Medium)",
     "🎬 Cybersecurity Educator on YouTube"
   ],
-  certifications: ["Google Cybersecurity", "Qualys VM Foundation", "TryHackMe Pre-Security"],
-  nextTarget:    "🎯 AWS Certified Security – Specialty",
+  certifications: ["Google Cybersecurity", "Qualys VM Foundation", "TryHackMe Pre-Security","AWS Certified Cloud Practioner],
+  nextTarget:    "🎯 AWS Solutions Architect",
   expertise: {
     cloud:        ["AWS IAM", "EC2", "VPC", "Security Hub", "GuardDuty", "CloudTrail", "Cost Explorer"],
     devsecops:    ["GitHub Actions", "CI/CD Security", "SAST", "Secret Scanning", "IaC Security", "Merge Gates"],
