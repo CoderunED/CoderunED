@@ -56,7 +56,8 @@ const ervin = {
 
 | Certification | Issuer | Status |
 |---|---|---|
-| ☁️ AWS Certified Security – Specialty | AWS | 🎯 Next Target |
+| ✅ AWS Solutions Architect | AWS | Next Target |
+| ✅ AWS Certified Cloud Practitioner | AWS | Completed |
 | ✅ Google Cybersecurity Certificate | Google / Coursera | Completed |
 | ✅ Vulnerability Management Foundation | Qualys | Completed |
 | ✅ Pre-Security Certificate | TryHackMe | Completed |
