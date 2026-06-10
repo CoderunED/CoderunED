@@ -56,7 +56,7 @@ const ervin = {
 
 | Certification | Issuer | Status |
 |---|---|---|
-| ✅ AWS Solutions Architect | AWS | Next Target |
+| ☁️ AWS Solutions Architect | AWS | Next Target |
 | ✅ AWS Certified Cloud Practitioner | AWS | Completed |
 | ✅ Google Cybersecurity Certificate | Google / Coursera | Completed |
 | ✅ Vulnerability Management Foundation | Qualys | Completed |
